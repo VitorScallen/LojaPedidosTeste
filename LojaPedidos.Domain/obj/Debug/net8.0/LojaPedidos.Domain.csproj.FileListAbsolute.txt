@@ -1,0 +1,11 @@
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Domain\bin\Debug\net8.0\LojaPedidos.Domain.deps.json
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Domain\bin\Debug\net8.0\LojaPedidos.Domain.dll
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Domain\bin\Debug\net8.0\LojaPedidos.Domain.pdb
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Domain\obj\Debug\net8.0\LojaPedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Domain\obj\Debug\net8.0\LojaPedidos.Domain.AssemblyInfoInputs.cache
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Domain\obj\Debug\net8.0\LojaPedidos.Domain.AssemblyInfo.cs
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Domain\obj\Debug\net8.0\LojaPedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Domain\obj\Debug\net8.0\LojaPedidos.Domain.dll
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Domain\obj\Debug\net8.0\refint\LojaPedidos.Domain.dll
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Domain\obj\Debug\net8.0\LojaPedidos.Domain.pdb
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Domain\obj\Debug\net8.0\ref\LojaPedidos.Domain.dll

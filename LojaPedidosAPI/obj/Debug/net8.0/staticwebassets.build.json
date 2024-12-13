@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f0oWdWmKWtO3C1MvFVXTosP/5Q5efjytJe3QxaHcEG8=",
+  "Source": "LojaPedidosAPI",
+  "BasePath": "_content/LojaPedidosAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

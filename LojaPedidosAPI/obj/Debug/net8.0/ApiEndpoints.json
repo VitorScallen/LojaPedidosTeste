@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "LojaPedidos.API.Controllers.PedidosController",
+    "Method": "IniciarPedido",
+    "RelativePath": "api/Pedidos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LojaPedidos.API.Controllers.PedidosController",
+    "Method": "FecharPedido",
+    "RelativePath": "api/Pedidos/{id}/fechar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LojaPedidos.API.Controllers.PedidosController",
+    "Method": "AdicionarProduto",
+    "RelativePath": "api/Pedidos/{id}/produtos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "LojaPedidos.Application.Commands.AdicionarProdutoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LojaPedidos.API.Controllers.PedidosController",
+    "Method": "RemoverProduto",
+    "RelativePath": "api/Pedidos/{id}/produtos/{produtoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "produtoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

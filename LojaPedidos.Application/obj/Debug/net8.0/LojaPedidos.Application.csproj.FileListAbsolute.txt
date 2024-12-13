@@ -1,0 +1,17 @@
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\bin\Debug\net8.0\LojaPedidos.Application.deps.json
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\bin\Debug\net8.0\LojaPedidos.Application.dll
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\bin\Debug\net8.0\LojaPedidos.Application.pdb
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\bin\Debug\net8.0\LojaPedidos.Domain.dll
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\bin\Debug\net8.0\LojaPedidos.Infrastructure.dll
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\bin\Debug\net8.0\LojaPedidos.Domain.pdb
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\bin\Debug\net8.0\LojaPedidos.Infrastructure.pdb
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\obj\Debug\net8.0\LojaPedidos.Application.csproj.AssemblyReference.cache
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\obj\Debug\net8.0\LojaPedidos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\obj\Debug\net8.0\LojaPedidos.Application.AssemblyInfoInputs.cache
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\obj\Debug\net8.0\LojaPedidos.Application.AssemblyInfo.cs
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\obj\Debug\net8.0\LojaPedidos.Application.csproj.CoreCompileInputs.cache
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\obj\Debug\net8.0\LojaPedi.87C51FBE.Up2Date
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\obj\Debug\net8.0\LojaPedidos.Application.dll
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\obj\Debug\net8.0\refint\LojaPedidos.Application.dll
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\obj\Debug\net8.0\LojaPedidos.Application.pdb
+C:\Users\vitor.macedo\Documents\Vitor\dotnet\LojaPedidosAPI\LojaPedidos.Application\obj\Debug\net8.0\ref\LojaPedidos.Application.dll
